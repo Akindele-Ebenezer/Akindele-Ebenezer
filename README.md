@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Akindele-Ebenezer
-- 👀 I’m interested in Web Development and Programming
-- 🌱 I’m currently learning Web Development and Programming
+- 👀 I’m a Frontend Developer 
 - 💞️ I’m looking to collaborate online
 - 📫 You can reach me on WhatsApp- 09052757805
 
