@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akindele-Ebenezer
--  I’m a Programmer and a Frontend Developer 
+-  I’m a Full Stack Developer
 - 💞️ I’m looking to collaborate online
 - 📫 You can reach me on WhatsApp- 09052757805
 
